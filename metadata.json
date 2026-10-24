@@ -1,0 +1,6 @@
+{
+  "name": "VALENCE X | 21+ Sensory Tech & VR Cinema",
+  "description": "Next-generation adult pleasure technology, 8K spatial VR cinema, interactive tele-haptics, and discrete privacy-first checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
